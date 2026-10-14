@@ -39,7 +39,7 @@ function showEmojis(count = emojiCodes.length) {
       <span class="code">${code}</span>
     `;
 
-    gallery.appendChile(card);
+    gallery.appendChild(card);
   }
 }
 
