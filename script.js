@@ -42,3 +42,5 @@ function showEmojis(count = emojiCodes.length) {
     gallery.appendChile(card);
   }
 }
+
+showEmojis();
