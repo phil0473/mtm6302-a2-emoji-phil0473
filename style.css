@@ -39,3 +39,9 @@ header {
   margin-bottom: 0.5rem;
   line-height: 1;
 }
+
+.card .code {
+  font-size: 0.875rem;
+  color: #6c757d;
+  font-family: monospace;
+}
