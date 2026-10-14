@@ -13,3 +13,5 @@ const emojiCodes = [
   129409, // 🥺
   129505  // 🧡
 ];
+// reference to the gallery container in index.html
+const gallery = document.getElementById("gallery");
